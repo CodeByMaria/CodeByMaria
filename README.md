@@ -60,10 +60,5 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFmaTV2eWJhOGN5ZXgwcTh6NWM1ejllZHZzZnNmYXZzcmN6N2llaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C2GkPMMPR0HGU/giphy.gif" alt="Midoriya gif" width="300"/>
 </p>
 
----
-
- <p align="center">
-<strong>Valeu pela visita! :) ❤️ </strong>
-</p>
 
  
