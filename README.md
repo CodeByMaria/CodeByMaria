@@ -17,7 +17,6 @@
 
 ---
 
-## 📱 Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/maria-camila-2b1837211/">
@@ -35,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMaria&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
