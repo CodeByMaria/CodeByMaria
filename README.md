@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2h0ejQ5emRja2V1MnNmbDJuM2p3NWppNTFjN3AwdWhpZTQ3djV2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ch8MNbthdNdEf0eNKv/giphy.gif" width="100" alt="Gif com saudações" />
- 
+
   <h2 style="color:#98FB98;">Seja bem-vindo(a) ao meu GitHub!</h2>
   <p style="color:#98FB98;"><i>Desenvolvedora Web | Estudante de Análise e Desenvolvimento de Sistemas</i></p>
 </div>
