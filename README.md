@@ -9,7 +9,7 @@
 ## 💻 Sobre Mim
 
 <span style="color:#98FB98">
-  Prazer! Eu sou a <strong>Camila</strong>, desenvolvedora <strong>apaixonada por tecnologia</strong> e pelo <strong>aprendizado contínuo</strong>.<br>
+  Prazer! Eu sou a <strong>Maria</strong>, desenvolvedora <strong>apaixonada por tecnologia</strong> e pelo <strong>aprendizado contínuo</strong>.<br>
   Atualmente, curso <strong>Análise e Desenvolvimento de Sistemas</strong> e coloco em prática meus conhecimentos por meio de <strong>projetos Web</strong> que unem teoria, criatividade e propósito.<br><br>
   Estou em busca de um estágio que me proporcione desafios reais, conexões inspiradoras e a oportunidade de crescer como profissional e como pessoa. ✨🚀
 </span>
