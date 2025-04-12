@@ -51,14 +51,14 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 0 auto;">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMaria&layout=compact&langs_count=20&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMaria&layout=compact&langs_count=20&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas" 
     alt="Linguagens mais usadas no GitHub"
-    style="border: none;"
+    style="border: 3px solid #ffffff; border-radius: 8px;"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByMaria&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D&currStreakLabel=Contribuições%20Atuais&fireLabels=&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByMaria&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D&currStreakLabel=Contribuições%20Atuais&fireLabels="
     alt="Estatísticas de contribuição no GitHub"
-    style="border: none;"
+    style="border: 3px solid #ffffff; border-radius: 8px;"
   />
 </div>
 
