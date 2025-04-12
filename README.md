@@ -48,18 +48,16 @@
 
 ### 📊 <strong>Estatísticas</strong>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMaria&layout=compact&langs_count=20&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas"
-    alt="Linguagens mais usadas no GitHub"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByMaria&theme=tokyonight&locale=pt-br&currStreakLabel=Sequência%20Atual&hide_border=false&date_format=j%20M%5B%20Y%5D&fireLabels=🔥&ring=Sequência%20Atual&sideLabels=Maior%20Sequência&totalContributionsLabel=Total%20de%20Contribuições"
-    alt="Estatísticas de contribuição no GitHub"
-  />
-</div>
-
----
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none; padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMaria&layout=compact&langs_count=20&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens mais usadas no GitHub">
+    </td>
+    <td style="border: none; padding: 0;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByMaria&theme=tokyonight&locale=pt-br&currStreakLabel=Sequência%20Atual&hide_border=false&date_format=j%20M%5B%20Y%5D&fireLabels=&ring=Sequência%20Atual&sideLabels=Maior%20Sequência&totalContributionsLabel=Total%20de%20Contribuições" alt="Estatísticas de contribuição no GitHub">
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
