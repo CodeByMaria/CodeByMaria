@@ -48,18 +48,15 @@
 
 ### 📊 <strong>Estatísticas</strong>
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMaria&layout=compact&langs_count=20&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas" 
-    alt="Linguagens Mais Usadas" 
-    height="200px"
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMaria&layout=compact&langs_count=20&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas"
+    alt="Linguagens mais usadas no GitHub"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByMaria&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D"
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByMaria&theme=tokyonight&locale=pt-br&currStreakLabel=Sequência%20Atual&hide_border=false&date_format=j%20M%5B%20Y%5D&fireLabels=🔥&ring=Sequência%20Atual&sideLabels=Maior%20Sequência&totalContributionsLabel=Total%20de%20Contribuições"
     alt="Estatísticas de contribuição no GitHub"
-    height="200px"
   />
-  
 </div>
 
 ---
