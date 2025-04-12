@@ -48,7 +48,7 @@
 
 ### 📊 <strong>Estatísticas</strong>
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMaria&layout=compact&langs_count=20&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas" 
     alt="Linguagens Mais Usadas" 
