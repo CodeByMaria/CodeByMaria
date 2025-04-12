@@ -52,12 +52,12 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMaria&layout=compact&langs_count=20&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas" 
     alt="Linguagens Mais Usadas" 
-    height="180px"
+    height="200px"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByMaria&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D"
     alt="Estatísticas de contribuição no GitHub"
-    height="180px"
+    height="200px"
   />
 </div>
 
