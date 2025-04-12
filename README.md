@@ -32,7 +32,8 @@
 
 ---
 
-## 🤖 <strong>Linguagens e Tecnologias</strong>
+### 🤖 <strong>Linguagens e Tecnologias</strong> 
+<br>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40px" />
@@ -47,7 +48,7 @@
 ---
 
 
-## 📊 <strong>Estatísticas</strong>
+### 📊 <strong>Estatísticas</strong>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 0 auto;">
   <img 
