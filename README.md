@@ -46,19 +46,24 @@
 
 ---
 
+
 ### 📊 <strong>Estatísticas</strong>
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="padding: 0; border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMaria&layout=compact&langs_count=20&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas&hide_border=true" alt="Linguagens mais usadas no GitHub" style="border: none;">
-    </td>
-    <td style="padding: 0; border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByMaria&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D&currStreakLabel=Contribuições%20Atuais&fireLabels=&hide_border=true" alt="Estatísticas de contribuição no GitHub" style="border: none;">
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 0 auto;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMaria&layout=compact&langs_count=20&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas&hide_border=true" 
+    alt="Linguagens mais usadas no GitHub"
+    style="border: none;"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByMaria&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D&currStreakLabel=Contribuições%20Atuais&fireLabels=&hide_border=true"
+    alt="Estatísticas de contribuição no GitHub"
+    style="border: none;"
+  />
+</div>
+
 ---
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
