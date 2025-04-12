@@ -46,9 +46,9 @@
 
 ---
 
-### 📊 <strong>Estatísticas</strong> 
+### 📊 <strong>Estatísticas</strong>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 30px;">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMaria&layout=compact&langs_count=20&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas" 
     alt="Linguagens Mais Usadas" 
@@ -78,4 +78,5 @@
   <br><br>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFmaTV2eWJhOGN5ZXgwcTh6NWM1ejllZHZzZnNmYXZzcmN6N2llaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C2GkPMMPR0HGU/giphy.gif" alt="Midoriya gif" width="300"/>
 </p>
+
 
