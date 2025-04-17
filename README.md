@@ -57,11 +57,7 @@
     style="border: 3px solid #ffffff; border-radius: 8px;"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByMaria&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D&currStreakLabel=Contribuições%20Atuais&fireLabels="
-    alt="Estatísticas de contribuição no GitHub"
-    style="border: 3px solid #ffffff; border-radius: 8px;"
-  />
-</div>
+
 
 ---
 
